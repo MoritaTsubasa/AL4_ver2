@@ -487,8 +487,7 @@ void Object3d::CreateModel()
 				//インデックスデータの追加
 				indices.emplace_back((unsigned short)indices.size());
 				
-				//// 頂点インデックスに追加
-				//indices.emplace_back(indexPosition - 1);
+				
 			}
 		}
 
